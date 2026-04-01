@@ -1,0 +1,29 @@
+com.trainbooking.app
+
+activities
+   SplashActivity
+   LoginActivity
+   RegisterActivity
+   DashboardActivity
+   TrainListActivity
+   BookingActivity
+   PaymentActivity
+   TicketActivity
+   AdminActivity
+
+model
+   Train
+   Booking
+
+adapter
+   TrainAdapter
+
+layout
+   activity_login.xml
+   activity_register.xml
+   activity_dashboard.xml
+   activity_train_list.xml
+   activity_booking.xml
+   activity_payment.xml
+   activity_ticket.xml
+   activity_admin.xml
