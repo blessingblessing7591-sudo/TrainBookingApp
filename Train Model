@@ -1,0 +1,17 @@
+public class Train {
+
+String name;
+String source;
+String destination;
+String time;
+
+public Train(String name,String source,String destination,String time){
+
+this.name=name;
+this.source=source;
+this.destination=destination;
+this.time=time;
+
+}
+
+}
